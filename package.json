@@ -50,7 +50,7 @@
     "csstype": "^3.0.2"
   },
   "devDependencies": {
-    "@4c/build": "^2.3.1",
+    "@4c/build": "^4.0.0",
     "@4c/rollout": "^2.2.1",
     "@4c/tsconfig": "^0.3.1",
     "@babel/cli": "^7.13.16",
